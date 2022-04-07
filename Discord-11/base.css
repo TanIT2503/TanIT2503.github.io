@@ -3166,12 +3166,12 @@
 /* Unread channel */
 .theme-dark .modeUnread-3Cxepe .name-28HaxV {
     color: var(--brand-experiment);
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .theme-light .modeUnread-3Cxepe .name-28HaxV {
     color: var(--blue-button-bg);
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 #app-mount .containerDefault-YUSmu3 .unread-36eUEm {
