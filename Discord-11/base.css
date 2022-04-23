@@ -2942,7 +2942,7 @@
 
 #app-mount .controlButton-2PMNom,
 #app-mount .actionButton-2S7dMn {
-  border-radius: 1.5px;
+  border-radius: 8px;
 }
 #app-mount .wrapper-3t3Yqv .colorable-3rVGna.primaryDark-2UJt1G {
   background: var(--background-secondary);
@@ -2953,12 +2953,12 @@
 }
 #app-mount .controlButton-2PMNom.contextMenuContainer-1RO4DQ button,
 #app-mount .actionButton-2S7dMn.contextMenuContainer-1RO4DQ button {
-  border-radius: 1.5px;
+  border-radius: 6px;
   height: 38px;
   margin-bottom: 1px;
 }
 #app-mount .contextMenuContainer-1RO4DQ .contextMenuNub-NuTZ_U {
-  border-radius: 1.5px;
+  border-radius: 4px;
   height: 12px;
   width: 52px;
   margin-top: 1px;
@@ -2983,13 +2983,13 @@
 }
 #app-mount .leaveQuietlyButton-3Vhswc,
 #app-mount .container-a_NK-C .centerButton-1IShs7 {
-  border-radius: 1.5px;
+  border-radius: 8px;
 }
 #app-mount .avControls-1rQROI .contextMenuContainer-1RO4DQ foreignObject {
   mask: none;
 }
 #app-mount .avControls-1rQROI .contextMenuContainer-1RO4DQ button {
-  border-radius: 1.5px;
+  border-radius: 6px;
   height: 38px;
   margin-bottom: 1px;
 }
